@@ -6,6 +6,16 @@ A full-stack Helpdesk and Ticket Management system built as a portfolio-grade pr
 
 The project combines a Django REST Framework API with a modern React + Vite administrative interface, role-aware workflows, ticket timelines, dashboard metrics, token authentication and a clean SaaS-style UI.
 
+## Product Screenshots
+
+### Dashboard
+
+![Helpdesk dashboard](docs/screenshots/dashboard.png)
+
+### Ticket Queue
+
+![Helpdesk ticket queue](docs/screenshots/tickets.png)
+
 ## Highlights
 
 - Full-stack Helpdesk application with RESTful API
